@@ -35,7 +35,7 @@ android {
 
 dependencies {
   implementation("com.google.code.gson:gson:2.8.8")
-  implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.3.0")
+  implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.4.0")
   implementation( "com.google.code.gson:gson:2.8.8")
   implementation("pub.devrel:easypermissions:3.0.0")
   implementation ("com.google.android.gms:play-services-location:17.1.0")
