@@ -10,7 +10,7 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
         maven {setUrl("https://jitpack.io") }
-        maven { url "https://kotlin.bintray.com/kotlinx" }
+        maven {setUrl("https://kotlin.bintray.com/kotlinx")}
     }
 }
 
