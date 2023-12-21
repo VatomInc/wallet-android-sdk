@@ -1,7 +1,6 @@
 plugins {
   id("com.android.application")
   id("org.jetbrains.kotlin.android")
-  kotlin("jvm") version "1.9.21" // or kotlin("multiplatform") or any other kotlin plugin
   kotlin("plugin.serialization") version "1.9.21"
 
 }
