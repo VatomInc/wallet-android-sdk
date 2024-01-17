@@ -97,7 +97,7 @@ class VatomWebWalletView @JvmOverloads constructor(
     webView.settings.allowUniversalAccessFromFileURLs = true
 
     //var url = "https://google.com"
-    var url = "${config?.baseUrl ?: "https://wallet.vatominc.com"}${if (businessId != null) "/b/${businessId}" else ""}"
+    var url = "${config?.baseUrl ?: "https://wallet.vatom.com"}${if (businessId != null) "/b/${businessId}" else ""}"
     Log.d("VatomWebWallet.configureWebView", "configureWebView: ${url}")
 
     var vatomWebView = VatomWebViewClient(object : OnPageLoadedListener {
