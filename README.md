@@ -47,7 +47,7 @@ Ensure the following permissions are added to your `android/app/src/main/Android
 <uses-feature android:name="android.hardware.camera" />
 ```
 
-These permissions are necessary for the proper functioning of your Flutter app on Android devices. The <uses-feature> element specifies that the app requires access to the device's camera.
+These permissions are necessary for the proper functioning of your app on Android devices.
 
 Make sure to update the permissions as needed based on your app's requirements.
 
