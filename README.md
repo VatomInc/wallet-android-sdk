@@ -4,6 +4,8 @@ Welcome to the SDK to embed the Vatom™ Wallet in Kotlin Apps, a powerful tool 
 
 This SDK allows you to easily and efficiently incorporate digital asset management into your application, providing your users with a comprehensive experience.
 
+https://jitpack.io/#VatomInc/kotlin-wallet-sdk
+
 ## Installation
 
 Add it in your root build.gradle at the end of repositories:
