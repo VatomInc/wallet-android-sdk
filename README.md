@@ -1,6 +1,21 @@
-# Vatom™ Kotlin SDK
+---
+category: "wallet"
+platform: "wallet-sdk"
+group: "android-wallet-sdk"
+path: "/android/about"
+title: 'About Android Wallet SDK'
+order: 30100
+date: "2023-11-06"
+version: 2
+tags: ["vAtom", "publisher"]
+apipath: ""
+apiurl: ""
+apiverb: ""
+apiauthtype: ""
+user_required: false
+---
 
-Welcome to the SDK to embed the Vatom™ Wallet in Kotlin Apps, a powerful tool designed to effortlessly integrate the Vatom™ Wallet functions directly into your Android applications.
+The Kotlin version of Wallet SDK allows you to embed a Vatom Wallet within your own based app.
 
 This SDK allows you to easily and efficiently incorporate digital asset management into your application, providing your users with a comprehensive experience.
 
