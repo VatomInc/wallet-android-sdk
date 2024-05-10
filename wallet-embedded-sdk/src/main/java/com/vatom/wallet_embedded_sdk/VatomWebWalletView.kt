@@ -376,5 +376,7 @@ class VatomWebWalletView @JvmOverloads constructor(
     ));
   }
 
-
+  fun linkTo(url: String) {
+    vatomMessageHandler.sendMsg("walletsdk:linkTo", mapOf("url" to url))
+  }
 }

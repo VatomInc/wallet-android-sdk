@@ -380,3 +380,13 @@ The `logOut` function initiates the log-out process in the wallet SDK by sending
 // Example: Initiate the log-out process.
 await vatomWebWallet.logOut();
 ```
+
+## linkTo()
+
+The `linkTo` function allows navigation to a specific tab in the application, providing a url.
+
+### Usage:
+
+```Kotlin
+ vatomWebWallet.linkTo("/map")
+```
